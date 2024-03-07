@@ -2,8 +2,6 @@
 
 This repository accompanies our paper "Which Time Series Domain Shifts Can Neural Networks Adapt To?" providing a simple chemical simulator for generating multivariate time series data via a State Space Model (SSM). It's designed for researchers to test domain adaptation methods against controlled domain shifts.
 
-The goal of this repository is to generate several domain shift for domain adaptation methods eager to test their method on controlled domain shifts.
-
 To know more about the domain generated shifts, please refer to our paper.
 
 # Getting Started:
@@ -33,4 +31,3 @@ The repository has several useful files:
 
 # Contact
 For any queries, please reach out to us at the provided contact details in the paper.
-
