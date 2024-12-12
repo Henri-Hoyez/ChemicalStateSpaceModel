@@ -34,7 +34,8 @@ For any queries, please reach out to us at the provided contact details in the p
 
 # Citation :
 
-```@inproceedings{hoyez_which_2024,
+```
+@inproceedings{hoyez_which_2024,
 	address = {Lyon, France},
 	title = {Which {Time} {Series} {Domain} {Shifts} can {Neural} {Networks} {Adapt} to?},
 	copyright = {https://doi.org/10.15223/policy-029},
@@ -49,4 +50,5 @@ For any queries, please reach out to us at the provided contact details in the p
 	month = aug,
 	year = {2024},
 	pages = {1932--1936}
-}```
+}
+```
