@@ -31,3 +31,22 @@ The repository has several useful files:
 
 # Contact
 For any queries, please reach out to us at the provided contact details in the paper.
+
+# Citation :
+
+```@inproceedings{hoyez_which_2024,
+	address = {Lyon, France},
+	title = {Which {Time} {Series} {Domain} {Shifts} can {Neural} {Networks} {Adapt} to?},
+	copyright = {https://doi.org/10.15223/policy-029},
+	isbn = {978-94-645936-1-7},
+	url = {https://ieeexplore.ieee.org/document/10715367/},
+	doi = {10.23919/EUSIPCO63174.2024.10715367},
+	language = {en},
+	urldate = {2024-12-09},
+	booktitle = {2024 32nd {European} {Signal} {Processing} {Conference} ({EUSIPCO})},
+	publisher = {IEEE},
+	author = {Hoyez, Henri and Mirbach, Bruno and Rambach, Jason and Schockaert, Cedric and Stricker, Didier},
+	month = aug,
+	year = {2024},
+	pages = {1932--1936}
+}```
